@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="microservices-parent.api-gateway" target="17" />
+      <module name="microservices-parent.api-gateway.main" target="17" />
+      <module name="microservices-parent.api-gateway.test" target="17" />
+      <module name="microservices-parent.discovery-server" target="17" />
+      <module name="microservices-parent.discovery-server.main" target="17" />
+      <module name="microservices-parent.discovery-server.test" target="17" />
+      <module name="microservices-parent.inventory-service" target="17" />
+      <module name="microservices-parent.inventory-service.main" target="17" />
+      <module name="microservices-parent.inventory-service.test" target="17" />
+      <module name="microservices-parent.main" target="17" />
+      <module name="microservices-parent.notification-service" target="17" />
+      <module name="microservices-parent.notification-service.main" target="17" />
+      <module name="microservices-parent.notification-service.test" target="17" />
+      <module name="microservices-parent.order-service" target="17" />
+      <module name="microservices-parent.order-service.main" target="17" />
+      <module name="microservices-parent.order-service.test" target="17" />
+      <module name="microservices-parent.product-service" target="17" />
+      <module name="microservices-parent.product-service.main" target="17" />
+      <module name="microservices-parent.product-service.test" target="17" />
+      <module name="microservices-parent.test" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
